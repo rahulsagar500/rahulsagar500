@@ -1,9 +1,19 @@
-### Hey there,I am RAHUL SAGAR PABBA...👨🏻‍💻
+### Hi there 👋, My name is RAHUL SAGAR PABBA
+#### I am a DevOps student.
+![I am a DevOps student.](https://gist.github.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/06b3FMA.jpg)
+
+I am very enthusiastic about CRYPTOS and STOCK-MARKET since my childhood. I love to read books about markets and also to gain financial knowledge. 
+
+- 🔭 I’m currently working on Stock-market analysis. 
+- 🌱 I’m currently learning DevOps tools 
+- 💬 Ask me about K-drama :) and Technical stuff. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahulsagar500)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rahulsagarpabba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rahulsagar500.github.io/MY-CV/)  
 
-- 🔭 I’m currently working on DevOps and STOCK-MARKET
-- 🌱 I’m currently learning DevOps and AI
-- 💬 Ask me about STOCK-MARKET
-- 📫 How to reach me: My contact number:7901274701
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsagar500&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahulsagar500)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rahulsagar500)  
 

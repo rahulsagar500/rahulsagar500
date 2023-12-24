@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is RAHUL SAGAR PABBA
 #### I am doing bachelor's of Software Engineering from University of Queensland.
-![I am a DevOps student.](https://gist.github.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/06b3FMA.jpg)
+
 
 I am very enthusiastic about CRYPTOS and STOCK-MARKET since my childhood. I love to read books about markets and also to gain financial knowledge. 
 
